@@ -1,4 +1,4 @@
-# Trenitalia-YoungCalendar
+# Trenitalia-YoungChecker
 
 <img width="872" alt="Screenshot 2025-03-03 at 20 12 21" src="https://github.com/user-attachments/assets/75cd94b6-46bd-48cc-bd02-14c803b3d892" />
 
