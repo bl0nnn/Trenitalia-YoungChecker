@@ -8,9 +8,7 @@ Al momento lo script supporta solo le stazioni prinicpali e si riferisce esculsi
 
 # Esempio di funzionamento
 
-- Impostare il valore della variabile days. Il suo valore rappresenta il numero di giorni per cui si vuole verificare le soluzioni. (se si sceglie ``` days = 30 ``` ci restituirà il calendario dal giorno in cui siamo fino a 30 giorni in avanti)
-
-<img width="810" alt="Screenshot 2025-03-03 at 20 26 57" src="https://github.com/user-attachments/assets/91d2c47a-bdb2-44b7-b3d5-c70a741acefd" />
+<img width="810" alt="Screenshot 2025-03-13 at 20 15 08" src="https://github.com/user-attachments/assets/c34c2cc1-63c7-463b-9f79-614a626f6791" />
 
 - Inserire una delle stazioni proposte
 
@@ -20,7 +18,7 @@ Al momento lo script supporta solo le stazioni prinicpali e si riferisce esculsi
 
 Il seguente è un esempio di output di ricerca tra Milano e Firenze (perido di osservazione 2 mesi, 60 giorni)
 > [!IMPORTANT]  
-> Il tempo di risposta varia in base al numero di giorni per cui fissiamo lo scope di osservazione. Più il valore di ``` days ``` è alto e più il tempo di esecuzione dello script si alzerà. Nel caso peggiore l'attesa è di circa 12 minuti (da verificare).
+> Il tempo di risposta varia in base al numero di giorni per cui fissiamo lo scope di osservazione. Più sono i giorni in avanti per cui vogliamo verificare e più il tempo di esecuzione dello script si alzerà.
 
 > [!TIP]
 > L'idea migliore è lasciare lo script in background e aggiornarlo ogni tot
