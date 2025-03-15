@@ -1,8 +1,8 @@
+import sys
 import requests
 import json
 from datetime import datetime, timedelta
 import calendar
-import sys
 
 GREEN = "\033[32m"
 RED =  "\033[31m"
