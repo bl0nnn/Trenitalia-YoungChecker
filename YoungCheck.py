@@ -194,6 +194,13 @@ temp = {
     "soluzioni": solutions
 }
 
+if temp["soluzioni"] == []:
+    print("\n")
+    print("Nessuna soluzione torvata per nei prossimi " + str(days) + " giorn!")
+    print("Prova ad aumentare il numero di giorni di osservazione :). In generale trenitalia concede l'acquisto di biglietti con offerta young se c'è un anticipo nell'acquisto di almeno 10/15 giorni")
+    print("\n")
+    sys.exit()
+
 solutionsFinal = json.dumps(temp, indent=4)
 print(solutionsFinal)
 
